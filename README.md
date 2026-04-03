@@ -14,6 +14,10 @@ This script scans your Edible Tools chest data, shows you exactly which chests a
 
 本脚本可以扫描你的食用工具开箱数据，显示哪些宝箱受到影响，并一键清除这些异常条目。
 
+## Screenshot / 截图
+
+![Scan Results](https://raw.githubusercontent.com/SeaL773/mwi-april-fools-fix/main/screenshots/scan_results.png)
+
 ## Features / 功能
 
 - Adds an **"April Fools Fix"** link to the left sidebar (below Chest Statistics)
