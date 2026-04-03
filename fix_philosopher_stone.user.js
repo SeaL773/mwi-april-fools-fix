@@ -151,13 +151,9 @@
                 panel.innerHTML = "";
                 var done = document.createElement("div");
                 done.style.cssText = "text-align:center;padding:30px 0;";
-                done.innerHTML = "<div style='font-size:32px;margin-bottom:10px;'>\u2705</div><div style='color:#8f8;font-size:16px;font-weight:bold;'>Removed from " + count + " chest(s)!</div><div style='color:#999;font-size:13px;margin-top:8px;'>Refresh the page to see changes.</div><div style='color:#888;font-size:12px;margin-top:4px;'>You can uninstall this script now.</div>";
+                done.innerHTML = "<div style='font-size:32px;margin-bottom:10px;'>\u2705</div><div style='color:#8f8;font-size:16px;font-weight:bold;'>Removed from " + count + " chest(s)!</div><div style='color:#999;font-size:13px;margin-top:8px;'>Page will refresh in 3 seconds...</div><div style='color:#888;font-size:12px;margin-top:4px;'>You can uninstall this script now.</div>";
                 panel.appendChild(done);
-                var okBtn = document.createElement("button");
-                okBtn.textContent = "OK";
-                okBtn.style.cssText = "display:block;margin:16px auto 0;background:#444;color:#fff;border:none;border-radius:4px;padding:8px 30px;cursor:pointer;font-size:14px;";
-                okBtn.onclick = function() { overlay.remove(); };
-                panel.appendChild(okBtn);
+                setTimeout(function() { location.reload(); }, 3000);
             };
             btnRow.appendChild(removeBtn);
             panel.appendChild(btnRow);
