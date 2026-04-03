@@ -6,6 +6,10 @@
 // @match        https://www.milkywayidle.com/*
 // @grant        none
 // @run-at       document-idle
+// @license      MIT
+// @author       SeaL773
+// @homepageURL  https://github.com/SeaL773/mwi-april-fools-fix
+// @supportURL   https://github.com/SeaL773/mwi-april-fools-fix/issues
 // ==/UserScript==
 
 (function() {
