@@ -3,7 +3,7 @@
 // @name:zh-CN   MWI 修复 - 愚人节贤者之石清除工具
 // @name:zh-TW   MWI 修復 - 愚人節賢者之石清除工具
 // @namespace    https://milkywayidle.com
-// @version      1.0
+// @version      1.1
 // @description  Remove Philosopher's Stone entries from Edible Tools chest statistics (April Fools 2026 bug)
 // @description:zh-CN  清除食用工具(Edible Tools)开箱统计中愚人节产生的贤者之石异常数据
 // @description:zh-TW  清除食用工具(Edible Tools)開箱統計中愚人節產生的賢者之石異常數據
