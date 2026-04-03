@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Remove Philosopher's Stone entries from Edible Tools chest statistics (April Fools 2026 bug)
 // @match        https://www.milkywayidle.com/*
+// @match        https://www.milkywayidle.cn/*
 // @grant        none
 // @run-at       document-idle
 // @license      MIT
