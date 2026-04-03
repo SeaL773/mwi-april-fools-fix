@@ -33,7 +33,7 @@ This script scans your Edible Tools chest data, shows you exactly which chests a
 ## Installation / 安装
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or any userscript manager / 安装 [Tampermonkey](https://www.tampermonkey.net/) 或其他油猴管理器
-2. **[Click here to install the script / 点击安装脚本](../../raw/main/fix_philosopher_stone.user.js)**
+2. **[Click here to install the script / 点击安装脚本](https://github.com/SeaL773/mwi-april-fools-fix/raw/main/fix_philosopher_stone.user.js)**
 3. Go to [Milky Way Idle](https://www.milkywayidle.com/) and refresh the page / 打开 MWI 并刷新页面
 4. Click **"April Fools Fix"** in the left sidebar / 点击左侧菜单中的 **"April Fools Fix"**
 5. Review the affected chests and click **Remove All** / 查看受影响的宝箱并点击 **Remove All**

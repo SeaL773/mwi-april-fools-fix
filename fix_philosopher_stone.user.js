@@ -8,7 +8,7 @@
 // @description:zh-CN  清除食用工具(Edible Tools)开箱统计中愚人节产生的贤者之石异常数据
 // @description:zh-TW  清除食用工具(Edible Tools)開箱統計中愚人節產生的賢者之石異常數據
 // @match        https://www.milkywayidle.com/*
-// @match        https://www.milkywayidle.cn/*
+// @match        https://www.milkywayidlecn.com/*
 // @grant        none
 // @run-at       document-idle
 // @license      MIT
