@@ -16,9 +16,9 @@ This script scans your Edible Tools chest data, shows you exactly which chests a
 
 ## Screenshot / 截图
 
-| Sidebar / 侧边栏 | Scan Results / 扫描结果 | Fix Complete / 修复完成 |
+| Sidebar / 侧边栏 | Fix Before / 修复前 | Fix Complete / 修复完成 |
 |:---:|:---:|:---:|
-| ![Sidebar](https://raw.githubusercontent.com/SeaL773/mwi-april-fools-fix/main/screenshots/scan_results.png) | ![Scan Before](https://raw.githubusercontent.com/SeaL773/mwi-april-fools-fix/main/screenshots/scan_before.png) | ![Fix Complete](https://raw.githubusercontent.com/SeaL773/mwi-april-fools-fix/main/screenshots/fix_complete.png) |
+| ![Sidebar](https://raw.githubusercontent.com/SeaL773/mwi-april-fools-fix/main/screenshots/scan_results.png) | ![Fix Before](https://raw.githubusercontent.com/SeaL773/mwi-april-fools-fix/main/screenshots/fix_before.png) | ![Fix Complete](https://raw.githubusercontent.com/SeaL773/mwi-april-fools-fix/main/screenshots/fix_complete.png) |
 
 ## Features / 功能
 
